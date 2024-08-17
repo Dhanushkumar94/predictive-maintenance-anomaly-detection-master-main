@@ -131,7 +131,7 @@ Follow these steps to effectively use the Automated Anomaly Detection for Predic
 
 Clone this repository to your local machine using the following command:
 
-git clone https://github.com/karthikashokg/predictive-maintenance-anomaly-detection-master.git
+git clone https://github.com/Dhanushkumar94/predictive-maintenance-anomaly-detection-master.git
 
 **Install Dependencies:**
 
@@ -200,6 +200,6 @@ If you find any resource missing or would like to be credited, please let us kno
 
 Thank you for being part of this journey!
 
-**karthik A G** - **Data Scientist**
+**Dhanush Kumar ** - **Data Scientist**
 
 
